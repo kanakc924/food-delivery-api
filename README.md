@@ -1,7 +1,7 @@
-Project Purpose:
+# Project Purpose:
 This project is a simple Food Delivery API built using Node.js and Express. It allows restaurants to manage menu items, customers to place orders, and admins to manage users. It demonstrates key backend concepts like JWT authentication, role-based access, request validation, custom middleware, and error handling.
 
-How to Install and Run:
+# How to Install and Run:
 # Clone the repo
 git clone https://github.com/your-username/food-delivery-api.git
 cd food-delivery-api
@@ -12,7 +12,7 @@ npm install
 # Start the server
 node src/app.js
 
-How to Test the API:
+# How to Test the API:
 You can test the API in two ways:
  
 Option 1: Run the test script
